@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently a second-year Computer Science student at [UNICENTRO](https://www3.unicentro.br/) <br>🌱 Passionate about AI and simulation<br>⚡ Average Green Day enjoyer
+🔭 I’m currently a third-year Computer Science student at [UNICENTRO](https://www3.unicentro.br/) <br>🌱 Passionate about AI and data science<br>⚡ Average Green Day enjoyer
 
 
 ## 🌐 Socials:
