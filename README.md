@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucasfpoli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasfpolidorio@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucasfpoli) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucasfpolidorio@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-f-polidorio/)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luskaQ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=luskaQ&theme=dark&hide_border=false)<br/>
